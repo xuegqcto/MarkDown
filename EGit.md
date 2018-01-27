@@ -1,3 +1,3 @@
 # EGit
 
-EGit is plugin of HBuilder.
+EGit is plugin of HBuilder..
